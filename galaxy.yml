@@ -1,6 +1,6 @@
 namespace: a10
 name: acos_cli
-version: 3.0.1
+version: 3.0.2
 readme: README.md
 authors:
     - "support@a10networks.com"
